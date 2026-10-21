@@ -8,10 +8,8 @@ Currículo desenvolvido em HTML e CSS como projeto de aprendizagem em desenvolvi
 - Menu com links para as seções do currículo.
 - Experiências profissionais ordenadas da mais recente para a mais antiga.
 - Logos das instituições e empresas.
-- Card da formação IBM Full Stack Software Developer, com progresso de **1/15 cursos concluídos**.
 - Miniatura clicável do certificado de Introduction to Software Engineering.
 - Estilos específicos para impressão em A4.
-- Versão alternativa com telefone e e-mail censurados.
 
 ## Estrutura do projeto
 
